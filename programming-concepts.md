@@ -21,3 +21,17 @@ Functions and Objects lean more towards a programming paradigm since some langua
 ## Debugging and Tools
 
 With every language come errors (bugs) and tools to assist in the development of programs and troubleshooting of errors.
+
+## Advanced Concepts
+
+The five concepts above are the introductory concepts all developers should know before they move on to advanced concepts such as:
+- Input/Output Streams
+- Concurrency and Parallelism
+- Recursion
+- Sockets & Networking
+- Security
+- Graphical User Interfaces
+- Data Structures & Algorithms
+- Design Patterns
+- Testing
+- And many more!!!
